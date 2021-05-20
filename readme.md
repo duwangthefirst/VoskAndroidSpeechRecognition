@@ -1,4 +1,4 @@
-### VoskVoiceRecognition
+### VoskAndroidSpeechRecognition
 
 #### Description
 A voice recognition demo for Android.
